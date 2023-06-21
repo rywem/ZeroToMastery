@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ZTM.Library\ZTM.Library.csproj" />
+  </ItemGroup>
+
 </Project>

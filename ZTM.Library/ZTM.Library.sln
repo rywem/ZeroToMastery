@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM.Library", "ZTM.Library\ZTM.Library.csproj", "{607BF537-34B3-4503-89A7-285B92DD7BAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTM.Console", "ZTM.Console\ZTM.Console.csproj", "{D485F723-2728-4F5D-805B-7F1C0084FB82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{607BF537-34B3-4503-89A7-285B92DD7BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607BF537-34B3-4503-89A7-285B92DD7BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607BF537-34B3-4503-89A7-285B92DD7BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D485F723-2728-4F5D-805B-7F1C0084FB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D485F723-2728-4F5D-805B-7F1C0084FB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D485F723-2728-4F5D-805B-7F1C0084FB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D485F723-2728-4F5D-805B-7F1C0084FB82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
